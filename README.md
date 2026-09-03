@@ -2,9 +2,9 @@
 
 # Hi, I'm Shubham 👋
 
-### Senior Data Analyst · Aspiring Data Engineer
+### Senior Data Analyst | Data Engineering & Automation
 
-I turn messy data into reliable insights—and I'm building the engineering skills to make those insights scale.
+I build reliable data workflows, automate repetitive processes, and turn complex requirements into practical systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sm408-181717?style=for-the-badge&logo=github)](https://github.com/sm408)
 
@@ -12,53 +12,48 @@ I turn messy data into reliable insights—and I'm building the engineering skil
 
 ## About me
 
-- 📊 2.5+ years of experience in data analysis
-- 🧱 Growing from analytics into data engineering
-- 🔍 Interested in robust data pipelines, automation, and production-grade systems
-- 🛠️ I enjoy turning ambiguous business questions into clean, useful data products
+My experience spans data analysis, production data workflows, Python automation, API validation, release support, and cross-functional delivery.
 
-## What I'm building toward
+I'm currently strengthening the bridge between analytics and engineering—focusing on maintainable pipelines, dependable data models, automated quality checks, and observable systems.
 
-```text
-Source systems → Reliable pipelines → Tested data models → Useful decisions
-```
+## What I work with
 
-My current focus is strengthening the bridge between analytics and engineering: better data modeling, dependable orchestration, scalable processing, and clear observability.
-
-## Tools & technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,github,docker,flask,azure,bash&perline=10" alt="Python, R, MySQL, PostgreSQL, Git, GitHub, Docker, Flask, Azure and Bash" />
 </p>
 
-## Current priorities
+**Languages & data:** Python, SQL, R, VBA, pandas, Dask, Polars, Parquet  
+**Applications:** Streamlit, Flask, Excel automation, REST APIs  
+**Quality & delivery:** Postman, schema validation, functional QA, Git, CI/CD  
+**Databases & infrastructure:** PostgreSQL, MySQL, SQLite, Docker, Azure
 
-- Designing maintainable ETL/ELT pipelines
-- Improving data modeling and warehouse fundamentals
-- Learning orchestration, testing, and monitoring patterns
-- Building production-minded projects that connect data, software, and business outcomes
+## Current focus
+
+- Designing maintainable ETL/ELT pipelines and tested data models
+- Automating complex operational workflows with human verification where it matters
+- Improving orchestration, monitoring, and production reliability
+- Growing from analytics and pipeline ownership into end-to-end data engineering
+
+## How I work
+
+```text
+Requirement → Data contract → Automated pipeline → Validation → Useful outcome
+```
+
+I value clear documentation, technically accurate claims, measurable improvements, and systems that other people can operate confidently.
+
+> Most of my professional work is held in private or internal repositories. Public projects and technical notes will appear here as they become available.
+
+<div align="center">
 
 ## GitHub activity
 
-<div align="center">
-
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm408&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sm408&layout=compact&hide_border=true&theme=transparent)
+### Let's connect
 
-</div>
+I'm open to conversations about data engineering, analytics engineering, automation, and reliable data systems.
 
-## Let's connect
-
-I'm open to conversations about data analytics, data engineering, automation, and building reliable data systems.
-
-<div align="center">
-
-_Always learning. Always building._
+[GitHub](https://github.com/sm408)
 
 </div>
